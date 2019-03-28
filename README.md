@@ -5,7 +5,7 @@ This course introduces the most basic and important data structures and algorith
 
 ## Course catalog
 
-1. [Python入门](https://github.com/shaqsnake/Data-Structures-and-Algorithms-in-Python/blob/master/01-Introduction-to-Python.ipynb)
+1. [Getting started with Python](https://github.com/shaqsnake/Data-Structures-and-Algorithms-in-Python/blob/master/01-Introduction-to-Python.ipynb)
 2. [Object-Oriented Programming](https://github.com/shaqsnake/Data-Structures-and-Algorithms-in-Python/blob/master/02-OOP.ipynb)
 3. [Analysis of Algorithms](https://github.com/shaqsnake/Data-Structures-and-Algorithms-in-Python/blob/master/03-Algorithm-Analysis.ipynb)
 4. [Recursive](https://github.com/shaqsnake/Data-Structures-and-Algorithms-in-Python/blob/master/04-Recursion.ipynb)
